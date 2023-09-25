@@ -11,7 +11,7 @@ require (
 	github.com/google/uuid v1.3.1
 	github.com/hashicorp/go-getter v1.7.1
 	github.com/hashicorp/go-uuid v1.0.3
-	github.com/hashicorp/hcl/v2 v2.14.1
+	github.com/hashicorp/hcl/v2 v2.18.0
 	github.com/khulnasoft-lab/defsec v1.0.4
 	github.com/khulnasoft-lab/vul-policies v0.0.0-20230922215546-a6e0d46524e8
 	github.com/liamg/iamgo v0.0.9
@@ -21,7 +21,7 @@ require (
 	github.com/moby/buildkit v0.12.2
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/stretchr/testify v1.8.4
-	github.com/zclconf/go-cty v1.10.0
+	github.com/zclconf/go-cty v1.13.0
 	github.com/zclconf/go-cty-yaml v1.0.2
 	golang.org/x/crypto v0.12.0
 	golang.org/x/text v0.12.0
@@ -53,6 +53,7 @@ require (
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
+	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d // indirect
 	github.com/aws/aws-sdk-go v1.44.245 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
