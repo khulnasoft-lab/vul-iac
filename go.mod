@@ -13,7 +13,7 @@ require (
 	github.com/hashicorp/go-getter v1.7.2
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/hcl/v2 v2.18.1
-	github.com/khulnasoft-lab/vul-policies v0.0.0-20231111192100-a98e3a022a04
+	github.com/khulnasoft-lab/vul-policies v0.0.0-20231111232106-2c262067b34b
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/jfather v0.0.7
 	github.com/liamg/memoryfs v1.6.0
@@ -194,7 +194,7 @@ require (
 	google.golang.org/genproto v0.0.0-20230711160842-782d3b101e98 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230711160842-782d3b101e98 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230711160842-782d3b101e98 // indirect
-	google.golang.org/grpc v1.58.2 // indirect
+	google.golang.org/grpc v1.58.3 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
