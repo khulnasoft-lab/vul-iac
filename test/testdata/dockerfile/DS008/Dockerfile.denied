@@ -1,3 +1,3 @@
-FROM alpine:3.13
+FROM alpine:3.19
 USER mike
 EXPOSE 65536 8080
