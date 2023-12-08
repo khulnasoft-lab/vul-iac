@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.19
 RUN zypper install bash
 RUN pip install --no-cache-dir -r /usr/src/app/requirements.txt
 USER mike
