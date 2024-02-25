@@ -1,6 +1,8 @@
 module github.com/khulnasoft-lab/vul-iac
 
-go 1.20
+go 1.21.1
+
+toolchain go1.22.0
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -8,7 +10,7 @@ require (
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aquasecurity/defsec v0.93.2-0.20231024055158-015ab97ce898
 	github.com/aws/smithy-go v1.14.2
-	github.com/bmatcuk/doublestar/v4 v4.6.0
+	github.com/bmatcuk/doublestar/v4 v4.6.1
 	github.com/google/uuid v1.3.1
 	github.com/hashicorp/go-getter v1.7.2
 	github.com/hashicorp/go-uuid v1.0.3
