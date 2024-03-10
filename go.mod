@@ -1,6 +1,8 @@
 module github.com/khulnasoft-lab/vul-iac
 
-go 1.20
+go 1.21.1
+
+toolchain go1.22.1
 
 require (
 	github.com/BurntSushi/toml v1.3.2
@@ -31,7 +33,7 @@ require (
 	golang.org/x/text v0.13.0
 	gopkg.in/yaml.v3 v3.0.1
 	helm.sh/helm/v3 v3.13.0
-	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
+	k8s.io/utils v0.0.0-20240310230437-4693a0247e57
 )
 
 require (
